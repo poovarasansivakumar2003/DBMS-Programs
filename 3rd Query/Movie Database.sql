@@ -7,7 +7,7 @@
 -- MOVIE_CAST (Act_id, Mov_id, Role)
 -- RATING (Mov_id, Rev_Stars)
 
--- SQL Queries
+-- Write SQL queries to 
 -- 1. List the titles of all movies directed by 'Hitchcock'
 -- 2. Find the movie names where one or more actors acted in two or more movies.
 -- 3. List all actors who acted in a movie before 2000 and also in a movie after 2015 (use JOIN operation).

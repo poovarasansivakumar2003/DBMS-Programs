@@ -10,11 +10,11 @@ The following schema is used for the Library Database:
 - **BOOK_LENDING** (Book_id, Branch_id, Card_No, Date_Out, Due_Date)
 - **LIBRARY_BRANCH** (Branch_id, Branch_Name, Address)
 
-## SQL Queries
+## Write SQL queries to 
 
 ### 1. Retrieve details of all books in the library.
 
-### 2. Get the particulars of borrowers who have borrowed more than 3 books, but from Jan 2017 to Jun2017 
+### 2. Get the particulars of borrowers who have borrowed more than 3 books, but from Jan 2017 to Jun2017.
 
 ### 3. Delete a book in BOOK table. Update the contents of other tables to reflect this data manipulation operation. 
 
